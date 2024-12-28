@@ -16,8 +16,32 @@ This project showcases SQL skills for analyzing retail sales data. It includes s
 
 # Project Workflow
 
-# 1. Database Creation
+# 1. Database Setup
+
+a. Database Creation
 To start the Project Workflow, our first step would be to create a database
 
-# 2. Table Creation
+b. Table Creation
 A table named `retail_sales` is created to store sales data. It includes columns for transaction ID, date, time, customer ID, gender, age, product category, quantity sold, price per unit, COGS, and total sale amount.
+
+![image](https://github.com/user-attachments/assets/cb6cc0b0-d5a6-4c49-9bcf-ab82c7759ce8)
+
+# 2. Data Exploration & Cleaning
+
+Record Count: Determine the total number of records in the dataset.
+
+Customer Count: Find out how many unique customers are in the dataset.
+
+Category Count: Identify all unique product categories in the dataset.
+
+Null Value Check: Check for any null values in the dataset and delete records with missing data.
+
+![image](https://github.com/user-attachments/assets/b4b136b3-6523-4d54-944f-adbcf9723da7)
+
+
+
+
+
+
+
+
