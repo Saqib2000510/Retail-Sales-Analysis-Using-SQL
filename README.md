@@ -2,8 +2,10 @@
 
 This Retail analysis is done using SQL to get the required data required for the stakeholders.
 
-Project Title:etail Sales Analysis 
-Tools used: MySQL 
+Project Title: Retail Sales Analysis 
+
+Tools used: MySQL
+
 Database: retail_sales
 
 This project showcases SQL skills for analyzing retail sales data. It includes setting up a database, exploring data, and answering business questions using SQL queries. It's a great starting point for beginners to learn and practice data analysis with SQL.
