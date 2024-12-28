@@ -2,9 +2,9 @@
 
 This Retail analysis is done using SQL to get the required data required for the stakeholders.
 
-Project Title: Retail Sales Analysis 
-Tools used: MySQL 
-Database: retail_sales
+**Project Title:** Retail Sales Analysis 
+**Tools used:** MySQL 
+**Database:** retail_sales
 
 This project showcases SQL skills for analyzing retail sales data. It includes setting up a database, exploring data, and answering business questions using SQL queries. It's a great starting point for beginners to learn and practice data analysis with SQL.
 
@@ -89,6 +89,22 @@ i. Write a SQL query to find the number of unique customers who purchased items 
 j. Write a SQL query to create each shift and number of orders (Example Morning <12, Afternoon Between 12 & 17, Evening >17).
 
 ![image](https://github.com/user-attachments/assets/a22e67b6-3538-40bb-99e0-13d9ae6a870a)
+
+
+# Findings: 
+
+**Customer Demographics:** Customers belong to different age groups, and sales are spread across categories like Clothing and Beauty.
+
+**High-Value Transactions:** Some sales exceeded 1000, showing significant purchases.
+
+**Sales Trends:** Monthly sales vary, highlighting peak seasons.
+  
+**Customer Insights:** Top customers and popular product categories were identified.  
+
+
+# Conclusion:  
+
+This project provides a hands-on introduction to SQL for data analysis, including database setup, data cleaning, and analysis. The insights gained, like sales patterns, customer behavior, and product performance, can support better business decisions.
 
 
 
