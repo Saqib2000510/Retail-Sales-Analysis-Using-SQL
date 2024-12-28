@@ -38,6 +38,63 @@ Null Value Check: Check for any null values in the dataset and delete records wi
 
 ![image](https://github.com/user-attachments/assets/b4b136b3-6523-4d54-944f-adbcf9723da7)
 
+# 3. Data Analysis and Findings 
+
+The following SQL queries were developed to answer specific business questions:
+
+a. Write a SQL query to retrieve all columns for sales made on '2022-11-05:
+
+![image](https://github.com/user-attachments/assets/f7b656b2-7b52-4239-bb53-173a38bb6514)
+
+
+b. Write a SQL query to retrieve all transactions where the category is 'Clothing' and the quantity sold is more than 4 in the month of Nov-2022
+
+![image](https://github.com/user-attachments/assets/3d219618-1c91-4cd8-963f-614be4641f21)
+
+
+c. Write a SQL query to calculate the total sales (total_sale) for each category.
+
+![image](https://github.com/user-attachments/assets/e099f821-3712-460d-81cf-16a3014e996e)
+
+
+d. Write a SQL query to find the average age of customers who purchased items from the 'Beauty' category.
+
+![image](https://github.com/user-attachments/assets/4e1ab0f4-405a-4929-baf0-3c7d984aadf8)
+
+
+e. Write a SQL query to find all transactions where the total_sale is greater than 1000.
+
+![image](https://github.com/user-attachments/assets/1fa9f3bb-6a6f-4572-9dfd-7d9e924c0866)
+
+
+f. Write a SQL query to find the total number of transactions (transaction_id) made by each gender in each category.
+
+![image](https://github.com/user-attachments/assets/939dbc15-4cc9-455e-9e3f-4833b12c9535)
+
+
+g. Write a SQL query to calculate the average sale for each month. Find out best selling month in each year.
+
+![image](https://github.com/user-attachments/assets/5fa6cc71-c79c-4434-ad1d-9a4554230796)
+
+
+h. Write a SQL query to find the top 5 customers based on the highest total sales.
+![image](https://github.com/user-attachments/assets/2ebf30ee-7b47-40c3-a576-be281d484d86)
+
+
+i. Write a SQL query to find the number of unique customers who purchased items from each category.
+
+![image](https://github.com/user-attachments/assets/1d8049d1-203d-441f-9542-0d4fd00142aa)
+
+
+j. Write a SQL query to create each shift and number of orders (Example Morning <12, Afternoon Between 12 & 17, Evening >17).
+
+![image](https://github.com/user-attachments/assets/a22e67b6-3538-40bb-99e0-13d9ae6a870a)
+
+
+
+
+
+
 
 
 
