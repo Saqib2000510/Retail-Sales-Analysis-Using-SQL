@@ -8,8 +8,6 @@ Tools used: MySQL
 
 Database: retail_sales
 
-This project showcases SQL skills for analyzing retail sales data. It includes setting up a database, exploring data, and answering business questions using SQL queries. It's a great starting point for beginners to learn and practice data analysis with SQL.
-
 # Objectives
 1. Set up a retail sales database: Create and populate a retail sales database with the provided sales data.
 2. Data Cleaning: Identify and remove any records with missing or null values.
